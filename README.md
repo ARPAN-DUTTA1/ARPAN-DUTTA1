@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi, I’m Arpan Dutta, a Cross-Platform Mobile and Web Developer with experience in building applications using modern development tools. I enjoy working on both mobile and web projects and focus on writing clean, readable, and maintainable code.<br><br>I work mainly with Flutter, React Native, and React.js, and I have a solid foundation in JavaScript, C, and Java. My development approach is practical and project-focused, with attention to performance, responsiveness, and usability.<br><br>I have built several mobile apps and websites, including real client projects. Some of this work cannot be shared publicly, but selected projects are available on my GitHub profile. I am always learning and improving my skills through hands-on development.<br><br>🛠️ Skills & Technologies<br><br>Mobile Development<br><br>Flutter<br><br>React Native<br><br>Web Development<br><br>React.js<br><br>HTML<br><br>CSS<br><br>Programming Languages<br><br>JavaScript<br><br>C<br><br>Java<br><br>UI & Styling<br><br>Tailwind CSS<br><br>Bootstrap<br><br>Tools & Practices<br><br>Git & version control<br><br>API integration<br><br>Responsive design
+
+👋 Hi, I’m Arpan Dutta
+
+I’m a Cross-Platform Mobile and Web Developer who enjoys building clean, responsive, and reliable applications. I work across both mobile and web platforms, focusing on readable, maintainable code and real-world usability.
+
+My primary stack includes Flutter, React Native, and React.js, with strong working knowledge of JavaScript, C, and Java. I take a practical, project-driven approach to development, paying close attention to performance, responsiveness, and user experience.
+
+I have developed multiple mobile apps and websites, including real client projects. While some work is private due to client agreements, selected projects are available here on my GitHub. I’m continuously improving my skills through hands-on development and learning.
+
+🛠️ Skills & Technologies
+
+Mobile: Flutter, React Native
+Web: React.js, HTML, CSS
+Languages: JavaScript, C, Java
+UI & Styling: Tailwind CSS, Bootstrap
+Tools & Practices: Git & version control, API integration, Responsive design
 
 
 ## 🌐 Socials:
