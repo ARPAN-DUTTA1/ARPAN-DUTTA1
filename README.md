@@ -10,11 +10,11 @@ I have developed multiple mobile apps and websites, including real client projec
 
 🛠️ Skills & Technologies
 
-Mobile: Flutter, React Native
-Web: React.js, HTML, CSS
-Languages: JavaScript, C, Java
-UI & Styling: Tailwind CSS, Bootstrap
-Tools & Practices: Git & version control, API integration, Responsive design
+Mobile: Flutter, React Native<br/>
+Web: React.js, HTML, CSS<br/>
+Languages: JavaScript, C, Java<br/>
+UI & Styling: Tailwind CSS, Bootstrap<br/>
+Tools & Practices: Git & version control, API integration, Responsive design<br/>
 
 
 ## 🌐 Socials:
